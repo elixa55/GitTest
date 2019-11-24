@@ -7,6 +7,7 @@ namespace NewSolution
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Na ezzel változott a code");
             Console.ReadKey(true);
         }
     }
