@@ -9,7 +9,7 @@ namespace NewSolution
             Console.WriteLine("Hello World!");
             Console.WriteLine("Na ezzel változott a code");
             Console.WriteLine("Ez egy uj sor, ezt most commitolom");
-            
+            Console.WriteLine("Ezt meg sync-elni fogom");
             Console.ReadKey(true);
         }
     }
